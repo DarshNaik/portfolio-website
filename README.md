@@ -1,7 +1,6 @@
 ﻿# portfolio-website
 
-website of RENISH KOTHADIYA
-
-COPYRIGHT UNDER ```html &copy Darsh Naik
+#### *website of RENISH KOTHADIYA*
 
 *currently under contruction*
+made by Darsh Naik
