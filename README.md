@@ -2,6 +2,6 @@
 
 #### *website of RENISH KOTHADIYA*
 
-*currently under contruction*
+*work in progress*
 
 *by Darsh Naik*
